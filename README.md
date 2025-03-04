@@ -1,3 +1,3 @@
 # Projeto streamlit
 
-Meu primeiro projeto streamlit para cdastro de clientes
+Meu primeiro projeto streamlit para cadastro de clientes
